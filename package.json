@@ -1,0 +1,24 @@
+{
+  "name": "@binar/chapter-05-topic-01-express-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "description": "File [`index.js`](./index.js) adalah sebuah file yang berisi implementasi dari\r HTTP server yang ditulis menggunakan Express.js.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sme-kampus-merdeka/fullstack-web-developer/chapter-5/topic-1/express.js-03.git"
+  },
+  "author": "Muhammad Radian Rasyid",
+  "bugs": {
+    "url": "https://gitlab.com/sme-kampus-merdeka/fullstack-web-developer/chapter-5/topic-1/express.js-03/issues"
+  },
+  "homepage": "https://gitlab.com/sme-kampus-merdeka/fullstack-web-developer/chapter-5/topic-1/express.js-03#readme"
+}
